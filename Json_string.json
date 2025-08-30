@@ -1,0 +1,32 @@
+[{
+    "github_source_url": "Big_data/refs/heads/main/olist_customers_dataset.csv",
+    "file_name": "olist_customers_dataset.csv"
+  },
+  {
+    "github_source_url": "Big_data/refs/heads/main/olist_geolocation_dataset.csv",
+    "file_name": "olist_geolocation_dataset.csv"
+  },
+  {
+    "github_source_url": "Big_data/refs/heads/main/olist_order_items_dataset.csv",
+    "file_name": "olist_order_items_dataset.csv"
+  },
+  {
+    "github_source_url": "Big_data/refs/heads/main/olist_order_reviews_dataset.csv",
+    "file_name": "olist_order_reviews_dataset.csv"
+  },
+  {
+    "github_source_url": "Big_data/refs/heads/main/olist_orders_dataset.csv",
+    "file_name": "olist_orders_dataset.csv"
+  },
+  {
+    "github_source_url": "Big_data/refs/heads/main/olist_products_dataset.csv",
+    "file_name": "olist_products_dataset.csv"
+  },
+  {
+    "github_source_url": "Big_data/refs/heads/main/olist_sellers_dataset.csv",
+    "file_name": "olist_sellers_dataset.csv"
+  },
+  {
+    "github_source_url": "Big_data/refs/heads/main/product_category_name_translation.csv",
+    "file_name": "product_category_name_translation.csv"
+  }]
